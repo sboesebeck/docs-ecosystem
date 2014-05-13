@@ -46,6 +46,8 @@ POJO Mappers
 
 - `Mungbean (w/clojure support)`_
 
+- `Morphium` <http://sboesebeck.github.io/morphium/>: Feature rich cluster aware POJO Mapper.
+
 - `Spring MongoDB`_
       Provides Spring users with a familiar data access features
       including rich POJO mapping.
